@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view xmlns="http://www.controlj.com/cjv2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.controlj.com/cjv2.0 cjv2.0.xsd" version="2.0" version-supporting-all-features="3.0.000" must-have-version="3.0.000">
+   <attachment-info>
+      <action type="graphics" />
+      <action-category type="default" />
+      <instance type="Default" />
+      <facet type="view" />
+      <ui-target type="lvl5" />
+      <target-resolution size="0" height="626" width="746" />
+      <supported-locale lang="en" />
+      <theme type="viewbuilder" />
+      <background-color value="#000000" />
+      <author></author>
+      <notes></notes>
+   </attachment-info>
+   <local-variables />
+   <layers>
+      <layer name="Layer 1" locked="false">
+         <control id="image116" />
+         <control id="image128" />
+         <control id="image143" />
+         <control id="text_toggle33" />
+         <control id="table61" />
+         <control id="image46" />
+         <control id="hand_off_auto23" />
+         <control id="image36" />
+         <control id="image72" />
+         <control id="image103" />
+         <control id="image74" />
+         <control id="image78" />
+         <control id="image32" />
+         <control id="image80" />
+         <control id="image140" />
+         <control id="image165" />
+         <control id="image108" />
+         <control id="image111" />
+         <control id="image130" />
+         <control id="image131" />
+         <control id="image162" />
+         <control id="image91" />
+         <control id="image101" />
+         <control id="checkbox_button140" />
+         <control id="checkbox_button32" />
+         <control id="image425" />
+         <control id="image60" />
+         <control id="image61" />
+         <control id="image62" />
+         <control id="image38" />
+         <control id="number1" />
+         <control id="droplist2" />
+         <control id="table175" />
+         <control id="image376" />
+         <control id="image377" />
+         <control id="image39" />
+         <control id="image77" />
+         <control id="character_string1" />
+         <control id="table72" />
+         <control id="image70" />
+         <control id="inline_text1" />
+         <control id="number2" />
+         <control id="droplist70" />
+         <control id="table2" />
+         <control id="image8" />
+         <control id="image81" />
+         <control id="image161" />
+         <control id="image120" />
+         <control id="inline_text8" />
+         <control id="image15" />
+         <control id="image121" />
+         <control id="image118" />
+         <control id="image106" />
+         <control id="number40" />
+         <control id="droplist41" />
+         <control id="table49" />
+         <control id="image109" />
+         <control id="image123" />
+         <control id="image126" />
+         <control id="image122" />
+         <control id="image104" />
+         <control id="image119" />
+         <control id="image127" />
+         <control id="image129" />
+         <control id="image132" />
+         <control id="image133" />
+         <control id="inline_text117" />
+         <control id="table13" />
+         <control id="number3" />
+         <control id="inline_text119" />
+         <control id="number6" />
+         <control id="inline_text121" />
+         <control id="table121" />
+         <control id="inline_text218" />
+         <control id="inline_text219" />
+         <control id="number10" />
+         <control id="table110" />
+         <control id="number109" />
+         <control id="table111" />
+         <control id="inline_text115" />
+         <control id="inline_text116" />
+         <control id="image115" />
+         <control id="image117" />
+         <control id="inline_text42" />
+         <control id="text_toggle19" />
+         <control id="inline_text20" />
+         <control id="text_toggle21" />
+         <control id="inline_text35" />
+         <control id="table267" />
+         <control id="inline_text703" />
+         <control id="text_toggle46" />
+         <control id="inline_text28" />
+         <control id="text_toggle29" />
+         <control id="inline_text30" />
+         <control id="text_toggle31" />
+         <control id="inline_text106" />
+         <control id="table271" />
+         <control id="inline_text122" />
+         <control id="text_toggle120" />
+         <control id="inline_text125" />
+         <control id="inline_text126" />
+         <control id="inline_text127" />
+         <control id="inline_text128" />
+         <control id="inline_text129" />
+         <control id="inline_text130" />
+         <control id="inline_text131" />
+         <control id="rectangle_drawing127" />
+         <control id="rectangle_drawing129" />
+         <control id="image134" />
+         <control id="image135" />
+         <control id="image136" />
+         <control id="image137" />
+         <control id="droplist177" />
+         <control id="number178" />
+         <control id="inline_text180" />
+         <control id="number180" />
+         <control id="table181" />
+         <control id="droplist133" />
+         <control id="number134" />
+         <control id="inline_text135" />
+         <control id="number136" />
+         <control id="table137" />
+         <control id="image138" />
+         <control id="image139" />
+         <control id="image141" />
+         <control id="inline_text132" />
+         <control id="inline_text133" />
+         <control id="inline_text134" />
+         <control id="inline_text136" />
+         <control id="inline_text137" />
+         <control id="inline_text138" />
+         <control id="inline_text139" />
+         <control id="inline_text140" />
+         <control id="inline_text141" />
+         <control id="inline_text142" />
+         <control id="inline_text21" />
+         <control id="text_toggle24" />
+         <control id="table20" />
+         <control id="inline_text202" />
+         <control id="inline_text143" />
+         <control id="inline_text144" />
+         <control id="image142" />
+      </layer>
+   </layers>
+   <revision-history>
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="47" second="1" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="46" second="7" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="45" second="24" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="11" minute="35" second="48" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="11" minute="33" second="10" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="9" minute="25" second="16" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="9" minute="25" second="13" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="9" minute="25" second="7" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="29" second="57" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="29" second="46" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="28" second="21" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="26" second="18" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="24" second="16" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="24" second="6" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="22" second="44" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="20" second="36" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="20" second="9" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="19" second="52" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="12" second="6" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="11" second="6" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="9" second="7" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="8" second="50" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="5" second="15" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="17" minute="3" second="15" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="16" minute="1" second="41" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="15" minute="59" second="41" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="15" minute="56" second="33" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="15" minute="53" second="36" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="15" minute="48" second="57" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="15" minute="47" second="46" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="15" minute="45" second="43" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="9" minute="40" second="15" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="9" minute="38" second="10" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="9" minute="9" second="40" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="17" second="40" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="17" second="15" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="16" second="21" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="15" second="29" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="15" second="2" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="14" second="25" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="14" second="2" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="13" second="18" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="12" second="40" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="8" second="17" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="7" second="28" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="4" second="9" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="3" second="54" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="2" second="37" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="18" minute="19" second="10" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="18" minute="11" second="4" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="37" second="58" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="37" second="37" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="36" second="13" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="35" second="36" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="34" second="38" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="34" second="20" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="31" second="54" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="30" second="50" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="30" second="34" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="28" second="5" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="27" second="23" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="8" hour="10" minute="22" second="18" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="7" hour="17" minute="9" second="37" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="7" hour="16" minute="53" second="10" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="7" hour="16" minute="25" second="19" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="7" hour="16" minute="7" second="58" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="7" hour="16" minute="2" second="11" version="6.5.003.20160413-73418 Final" />
+   </revision-history>
+   <group-list>
+      <group id="group2">
+         <member idref="image70" />
+         <member idref="image8" />
+      </group>
+      <group id="group18">
+         <member idref="image116" />
+         <member idref="image143" />
+      </group>
+      <group id="group15">
+         <member idref="image39" />
+         <member idref="image77" />
+      </group>
+   </group-list>
+   <static-traits>
+      <style font-family="Arial" font-size="12" bold="false" italic="false" color="#929292" text-decoration="none" external="false" physical-font-size="15" id="style0" />
+      <style font-family="Sans Serif" font-size="12" bold="true" italic="false" color="#929292" text-decoration="none" external="false" physical-font-size="16" id="style7" />
+      <style font-family="Sans Serif" font-size="12" bold="false" italic="false" color="#fff660" text-decoration="none" external="false" id="style3" physical-font-size="16" />
+      <style font-family="Sans Serif" font-size="12" bold="false" italic="false" color="#929292" text-decoration="none" external="false" physical-font-size="16" id="style1" />
+      <style font-family="Sans Serif" font-size="12" bold="false" italic="false" color="#ff0000" text-decoration="none" external="false" physical-font-size="16" id="style4" />
+      <style font-family="Arial Unicode MS" font-size="12" bold="false" italic="false" color="#929292" text-decoration="none" external="false" physical-font-size="16" id="style5" />
+      <style font-family="Arial" font-size="12" bold="false" italic="false" color="#5a90bf" text-decoration="none" external="false" physical-font-size="15" id="style10" />
+      <style font-family="Arial" font-size="14" bold="true" italic="false" color="#5a90bf" text-decoration="none" external="false" physical-font-size="17" id="style13" />
+   </static-traits>
+   <runtime-traits>
+      <variable-color expression="$hvfd_flt/present_value$ == true ? '#FF0000' : '#FFF660'" id="variable-color4" />
+      <variable-color expression="$shutdown/present_value$==true?'#FF0000':'#FFF660'" id="variable-color0" />
+      <conditional id="conditional_root1" expression="$p1_status/present_value$ == 1">
+         <true id="conditional15" />
+      </conditional>
+      <conditional id="conditional_root2" expression="$p2_fail/present_value$ == true">
+         <true id="conditional3" />
+      </conditional>
+      <conditional id="conditional_root3" expression="$p2_status/present_value$ == 1">
+         <true id="conditional14" />
+      </conditional>
+      <conditional id="conditional_root4" expression="$hw_pump_status/present_value$ == 1">
+         <true id="conditional13" />
+      </conditional>
+      <conditional id="conditional_root5" expression="$p1_fail/present_value$ == true">
+         <true id="conditional1" />
+      </conditional>
+   </runtime-traits>
+   <screen id="main" allow-absolute-position="true">
+      <body>
+         <region x-position="330" y-position="398" width="110" height="7" layout="reflow" z-position="0" id="region0">
+            <image width="110" height="7" is-locked="false" id="image138" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="0" />
+         </region>
+         <region x-position="333" y-position="345" width="353" height="7" layout="reflow" z-position="1" id="region1">
+            <image width="353" height="7" is-locked="false" id="image36" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="1" />
+         </region>
+         <region x-position="912" y-position="722" width="7" height="114" layout="reflow" z-position="2" id="region2">
+            <image width="7" height="114" is-locked="false" id="image137" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/CW/pipe_cw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/CW/pipe_cw_ud_50.gif" index="2" />
+         </region>
+         <region x-position="911" y-position="517" width="7" height="114" layout="reflow" z-position="3" id="region3">
+            <image width="7" height="114" is-locked="false" id="image136" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/CW/pipe_cw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/CW/pipe_cw_ud_50.gif" index="3" />
+         </region>
+         <region x-position="261" y-position="400" width="20" height="8" layout="reflow" z-position="4" id="region4">
+            <image width="20" height="8" is-locked="false" id="image133" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="4" />
+         </region>
+         <region x-position="186" y-position="346" width="97" height="7" layout="reflow" z-position="5" id="region5">
+            <image width="97" height="7" is-locked="false" id="image129" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="5" />
+         </region>
+         <region x-position="278" y-position="313" width="68" height="106" layout="reflow" z-position="6" id="region6">
+            <image width="68" height="106" is-locked="false" id="image15" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Heat Exchangers/hx_plate_v_100.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Heat%20Exchangers/hx_plate_v_100.gif" index="6" />
+         </region>
+         <region x-position="-79" y-position="439" width="320" height="8" layout="reflow" z-position="7" id="region7">
+            <image width="320" height="8" is-locked="false" id="image121" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="7" />
+         </region>
+         <region x-position="-67" y-position="288" width="234" height="8" layout="reflow" z-position="8" id="region8">
+            <image width="234" height="8" is-locked="false" id="image118" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="8" />
+         </region>
+         <region x-position="190" y-position="26" width="229" height="20" layout="reflow" z-position="9" id="region9" layout-constraint="north">
+            <table style-idref="style3" id="table72" row-count="1" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="10">
+               <row id="table72r0" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table72r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="229" height="20" editable="false" style-idref="style3" index="-1">
+                        <character-string id="character_string1" property=".display-name" editable="false" is-locked="false" style-idref="style7" index="9">
+                           <preview-text>
+                              <variant xml:lang="en" length="33">XXXXXXXXX - Node Name - XXXXXXXXX</variant>
+                           </preview-text>
+                        </character-string>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="659" y-position="687" width="179" height="20" layout="reflow" z-position="10" id="region10" layout-constraint="north-west">
+            <table style-idref="style1" id="table2" row-count="1" column-count="3" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="14">
+               <row id="table2r0" height="20">
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table2r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="94" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text1" flow-entity-created="false" style-idref="style1" index="11">
+                           <variant xml:lang="en" length="16">Cold Water Meter</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table2r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="35" height="20" editable="false" style-idref="style1" index="-1">
+                        <number id="number2" expression="inst_demand_w" property="present_value" editable="false" maximum-right-digits="0" minimum-left-digits="1" expected-left-digits="5" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="12" />
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table2r0c2">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="38" height="20" editable="false" style-idref="style1" index="-1">
+                        <droplist id="droplist70" expression="inst_demand_w" property="units" editable="false" attribute-name-key="key" attribute-name-display="name" is-locked="false" style-idref="style1" index="13">
+                           <preview-text>
+                              <variant xml:lang="en" length="8">Liter/hr</variant>
+                           </preview-text>
+                        </droplist>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="1024" y-position="345" width="20" height="7" layout="reflow" z-position="11" id="region11">
+            <image width="20" height="7" is-locked="false" id="image116" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_end_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_end_r.gif" index="15" />
+         </region>
+         <region x-position="842" y-position="345" width="182" height="7" layout="reflow" z-position="12" id="region12">
+            <image width="182" height="7" is-locked="false" id="image128" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="16" />
+         </region>
+         <region x-position="1049" y-position="346" width="10" height="5" layout="reflow" z-position="13" id="region13">
+            <image width="10" height="5" is-locked="false" id="image143" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_arrow_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_arrow_r.gif" index="17" />
+         </region>
+         <region x-position="907" y-position="309" width="45" height="20" layout="reflow" z-position="14" id="region14" layout-constraint="north">
+            <table style-idref="style3" id="table61" row-count="1" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="19">
+               <row id="table61r0" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table61r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="45" height="20" editable="false" style-idref="style3" index="-1">
+                        <text-toggle id="text_toggle33" expression="hw_flow" property="present_value" editable="false" is-locked="false" style-idref="style3" index="18">
+                           <preview-text>
+                              <variant xml:lang="en" length="7">No Flow</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="183" y-position="434" width="16" height="5" layout="reflow" z-position="15" id="region15">
+            <image width="16" height="5" is-locked="false" id="image106" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Temp Wells/pipes_temp_up.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Temp%20Wells/pipes_temp_up.gif" index="20" />
+         </region>
+         <region x-position="179" y-position="446" width="24" height="40" layout="reflow" z-position="16" id="region16" layout-constraint="north">
+            <table style-idref="style3" id="table49" row-count="2" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="23">
+               <row id="table49r0" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table49r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="24" height="20" editable="false" style-idref="style3" index="-1">
+                        <number id="number40" expression="phwr_temp" property="present_value" editable="false" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="2" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="21" />
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table49r1" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table49r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="24" height="20" editable="false" style-idref="style3" index="-1">
+                        <droplist id="droplist41" expression="phwr_temp" property="units" editable="false" attribute-name-key="key" attribute-name-display="name" is-locked="false" style-idref="style1" index="22">
+                           <preview-text>
+                              <variant xml:lang="en" length="2">&#176;C</variant>
+                           </preview-text>
+                        </droplist>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="918" y-position="328" width="24" height="28" layout="reflow" z-position="17" id="region17">
+            <image width="24" height="28" is-locked="false" id="image46" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Flow Meter/flowmeter_lru.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Flow%20Meter/flowmeter_lru.gif" index="24" />
+         </region>
+         <region x-position="233" y-position="73" width="136" height="50" layout="reflow" z-position="18" id="region18">
+            <hand-off-auto id="hand_off_auto23" editable="true" type="dial" use-advanced-path="true" auto-expression="man_ovrde_lock" auto-property="relinquish_default" hand-expression="man_ovrde_state" hand-property="relinquish_default" width="136" height="50" use-state-text="false" order="1" is-locked="false" index="25" />
+         </region>
+         <region x-position="445" y-position="411" width="7" height="96" layout="reflow" z-position="19" id="region19">
+            <image width="7" height="96" is-locked="false" id="image72" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="26" />
+         </region>
+         <region x-position="438" y-position="398" width="15" height="15" layout="reflow" z-position="20" id="region20">
+            <image width="15" height="15" is-locked="false" id="image103" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_ul.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_ul.gif" index="27" />
+         </region>
+         <region x-position="444" y-position="507" width="16" height="16" layout="reflow" z-position="21" id="region21">
+            <image width="16" height="16" is-locked="false" id="image74" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_dr.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_dr.gif" index="28" />
+         </region>
+         <region x-position="1023" y-position="515" width="20" height="7" layout="reflow" z-position="22" id="region22">
+            <image width="20" height="7" is-locked="false" id="image39" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_end_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_end_r.gif" index="29" />
+         </region>
+         <region x-position="1048" y-position="516" width="10" height="5" layout="reflow" z-position="23" id="region23">
+            <image width="10" height="5" is-locked="false" id="image77" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_arrow_l.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_arrow_l.gif" index="30" />
+         </region>
+         <region x-position="751" y-position="284" width="20" height="5" layout="reflow" z-position="24" id="region24">
+            <image width="20" height="5" is-locked="false" id="image78" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_arrow_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_arrow_r.gif" index="31" />
+         </region>
+         <region x-position="751" y-position="424" width="20" height="5" layout="reflow" z-position="25" id="region25">
+            <image width="20" height="5" is-locked="false" id="image32" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_arrow_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_arrow_r.gif" index="32" />
+         </region>
+         <region x-position="702" y-position="275" width="120" height="7" layout="reflow" z-position="26" id="region26">
+            <image width="120" height="7" is-locked="false" id="image80" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="33" />
+         </region>
+         <region x-position="688" y-position="288" width="7" height="120" layout="reflow" z-position="27" id="region27">
+            <image width="7" height="120" is-locked="false" id="image140" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="34" />
+         </region>
+         <region x-position="828" y-position="288" width="7" height="120" layout="reflow" z-position="28" id="region28">
+            <image width="7" height="120" is-locked="false" id="image165" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="35" />
+         </region>
+         <region x-position="821" y-position="274" width="15" height="15" layout="reflow" z-position="29" id="region29">
+            <image width="15" height="15" is-locked="false" id="image108" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_ul.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_ul.gif" index="36" />
+         </region>
+         <region x-position="687" y-position="274" width="16" height="15" layout="reflow" z-position="30" id="region30">
+            <image width="16" height="15" is-locked="false" id="image111" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_ur.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_ur.gif" index="37" />
+         </region>
+         <region x-position="681" y-position="338" width="15" height="21" layout="reflow" z-position="31" id="region31">
+            <image width="15" height="21" is-locked="false" id="image130" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_t_udl.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_t_udl.gif" index="38" />
+         </region>
+         <region x-position="827" y-position="338" width="16" height="21" layout="reflow" z-position="32" id="region32">
+            <image width="16" height="21" is-locked="false" id="image131" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_t_udr.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_t_udr.gif" index="39" />
+         </region>
+         <region x-position="702" y-position="415" width="120" height="7" layout="reflow" z-position="33" id="region33">
+            <image width="120" height="7" is-locked="false" id="image162" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="40" />
+         </region>
+         <region x-position="821" y-position="407" width="15" height="16" layout="reflow" z-position="34" id="region34">
+            <image width="15" height="16" is-locked="false" id="image91" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_dl.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_dl.gif" index="41" />
+         </region>
+         <region x-position="687" y-position="407" width="16" height="16" layout="reflow" z-position="35" id="region35">
+            <image width="16" height="16" is-locked="false" id="image101" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_dr.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_dr.gif" index="42" />
+         </region>
+         <region x-position="740" y-position="395" width="43" height="27" layout="reflow" z-position="36" id="region36">
+            <checkbox-button id="checkbox_button140" expression="p2_status" property="present_value" editable="false" width="43" height="27" is-locked="false" index="43">
+               <up-image embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_ru_off.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_ru_off.gif" width="43" height="27" />
+               <down-image embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_ru_on.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_ru_on.gif" width="43" height="27" />
+            </checkbox-button>
+         </region>
+         <region x-position="740" y-position="255" width="43" height="27" layout="reflow" z-position="37" id="region37">
+            <checkbox-button id="checkbox_button32" expression="p1_status" property="present_value" editable="false" width="43" height="27" is-locked="false" index="44">
+               <up-image embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_ru_off.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_ru_off.gif" width="43" height="27" />
+               <down-image embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_ru_on.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_ru_on.gif" width="43" height="27" />
+            </checkbox-button>
+         </region>
+         <region x-position="672" y-position="170" width="185" height="82" layout="reflow" z-position="38" id="region38" layout-constraint="north">
+            <table style-idref="style1" id="table267" row-count="4" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="52">
+               <row id="table267r0" height="22">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table267r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="22" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text42" flow-entity-created="false" style-idref="style1" index="45">
+                           <variant xml:lang="en" length="20">Command / &#1059;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table267r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="22" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle19" expression="pump1" property="present_value" editable="true" is-locked="false" style-idref="style3" index="46">
+                           <preview-text>
+                              <variant xml:lang="en" length="3">Off</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table267r1" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table267r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text20" flow-entity-created="false" style-idref="style1" index="47">
+                           <variant xml:lang="en" length="15">Status / &#1089;&#1090;&#1072;&#1090;&#1091;&#1089;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table267r1c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle21" expression="p1_status" property="present_value" editable="false" is-locked="false" style-idref="style3" index="48">
+                           <preview-text>
+                              <variant xml:lang="en" length="3">Off</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table267r2" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table267r2c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text703" flow-entity-created="false" style-idref="style1" index="49">
+                           <variant xml:lang="en" length="15">Fault / &#1090;&#1088;&#1077;&#1074;&#1086;&#1075;&#1072;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table267r2c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle46" expression="p1_fault" property="present_value" editable="false" is-locked="false" variable-color-idref="variable-color4" style-idref="style3" index="50">
+                           <preview-text>
+                              <variant xml:lang="en" length="6">Normal</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table267r3" height="20" conditional-idref="conditional1">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="2" use-border="false" border-width="0" use-cell-background="false" id="table267r3c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="185" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text35" flow-entity-created="false" style-idref="style4" index="51">
+                           <variant xml:lang="en" length="15">Failed / &#1087;&#1088;&#1086;&#1074;&#1072;&#1083;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="644" y-position="439" width="185" height="82" layout="reflow" z-position="39" id="region39" layout-constraint="north">
+            <table style-idref="style1" id="table271" row-count="4" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="60">
+               <row id="table271r0" height="22">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table271r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="22" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text28" flow-entity-created="false" style-idref="style1" index="53">
+                           <variant xml:lang="en" length="20">Command / &#1059;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table271r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="22" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle29" expression="pump2" property="present_value" editable="true" is-locked="false" style-idref="style3" index="54">
+                           <preview-text>
+                              <variant xml:lang="en" length="3">Off</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table271r1" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table271r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text30" flow-entity-created="false" style-idref="style1" index="55">
+                           <variant xml:lang="en" length="15">Status / &#1089;&#1090;&#1072;&#1090;&#1091;&#1089;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table271r1c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle31" expression="p2_status" property="present_value" editable="false" is-locked="false" style-idref="style3" index="56">
+                           <preview-text>
+                              <variant xml:lang="en" length="3">Off</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table271r2" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table271r2c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text122" flow-entity-created="false" style-idref="style1" index="57">
+                           <variant xml:lang="en" length="15">Fault / &#1090;&#1088;&#1077;&#1074;&#1086;&#1075;&#1072;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table271r2c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle120" expression="p2_fault" property="present_value" editable="false" is-locked="false" variable-color-idref="variable-color4" style-idref="style3" index="58">
+                           <preview-text>
+                              <variant xml:lang="en" length="6">Normal</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table271r3" height="20" conditional-idref="conditional3">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="2" use-border="false" border-width="0" use-cell-background="false" id="table271r3c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="185" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text106" flow-entity-created="false" style-idref="style4" index="59">
+                           <variant xml:lang="en" length="15">Failed / &#1087;&#1088;&#1086;&#1074;&#1072;&#1083;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="576" y-position="515" width="30" height="7" layout="reflow" z-position="40" id="region40">
+            <image width="30" height="7" is-locked="false" id="image425" conditional-idref="conditional13" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_anim_.l.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_anim_.l.gif" index="61" />
+         </region>
+         <region x-position="688" y-position="298" width="7" height="30" layout="reflow" z-position="41" id="region41">
+            <image width="7" height="30" is-locked="false" id="image60" conditional-idref="conditional15" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_anim_u.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_anim_u.gif" index="62" />
+         </region>
+         <region x-position="828" y-position="368" width="7" height="30" layout="reflow" z-position="42" id="region42">
+            <image width="7" height="30" is-locked="false" id="image61" conditional-idref="conditional14" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_anim_u.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_anim_u.gif" index="63" />
+         </region>
+         <region x-position="688" y-position="368" width="7" height="30" layout="reflow" z-position="43" id="region43">
+            <image width="7" height="30" is-locked="false" id="image62" conditional-idref="conditional14" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_anim_d.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_anim_d.gif" index="64" />
+         </region>
+         <region x-position="828" y-position="298" width="7" height="30" layout="reflow" z-position="44" id="region44">
+            <image width="7" height="30" is-locked="false" id="image38" conditional-idref="conditional15" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_anim_d.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_anim_d.gif" index="65" />
+         </region>
+         <region x-position="403" y-position="406" width="31" height="40" layout="reflow" z-position="45" id="region45" layout-constraint="north">
+            <table id="table175" row-count="2" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="68">
+               <row id="table175r0" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table175r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="31" height="20" editable="false" style-idref="style0" index="-1">
+                        <number id="number1" expression="hwr_temp" property="present_value" editable="false" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="3" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="66" />
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table175r1" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table175r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="31" height="20" editable="false" style-idref="style0" index="-1">
+                        <droplist id="droplist2" expression="hwr_temp" property="units" editable="false" attribute-name-key="key" attribute-name-display="name" is-locked="false" style-idref="style1" index="67">
+                           <preview-text>
+                              <variant xml:lang="en" length="2">&#176;C</variant>
+                           </preview-text>
+                        </droplist>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="375" y-position="340" width="16" height="5" layout="reflow" z-position="46" id="region46">
+            <image width="16" height="5" is-locked="false" id="image376" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Temp Wells/pipes_temp_up.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Temp%20Wells/pipes_temp_up.gif" index="69" />
+         </region>
+         <region x-position="584" y-position="350" width="7" height="166" layout="reflow" z-position="47" id="region47">
+            <image width="7" height="166" is-locked="false" id="image81" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="70" />
+         </region>
+         <region x-position="576" y-position="329" width="24" height="31" layout="reflow" z-position="48" id="region48">
+            <image width="24" height="31" is-locked="false" id="image161" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Valves/valve_3way_u.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Valves/valve_3way_u.gif" index="71" />
+         </region>
+         <region x-position="578" y-position="308" width="25" height="22" layout="reflow" z-position="49" id="region49" layout-constraint="north">
+            <table style-idref="style1" id="table110" row-count="1" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="73">
+               <row id="table110r0" height="22">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table110r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="25" height="22" editable="false" style-idref="style1" index="-1">
+                        <number id="number10" expression="scd_vlv" property="present_value" editable="true" maximum-right-digits="0" minimum-left-digits="1" expected-left-digits="3" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="72" />
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="72" y-position="274" width="24" height="31" layout="reflow" z-position="50" id="region50">
+            <image width="24" height="31" is-locked="false" id="image109" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Valves/valve_3way_u.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Valves/valve_3way_u.gif" index="74" />
+         </region>
+         <region x-position="72" y-position="256" width="25" height="22" layout="reflow" z-position="51" id="region51" layout-constraint="north">
+            <table style-idref="style1" id="table111" row-count="1" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="76">
+               <row id="table111r0" height="22">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table111r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="25" height="22" editable="false" style-idref="style1" index="-1">
+                        <number id="number109" expression="pri_vlv" property="present_value" editable="true" maximum-right-digits="0" minimum-left-digits="1" expected-left-digits="3" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="75" />
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="-283" y-position="71" width="52" height="40" layout="reflow" z-position="52" id="region52" layout-constraint="north-west">
+            <table style-idref="style1" id="table121" row-count="2" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="81">
+               <row id="table121r0" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table121r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="24" height="20" editable="false" style-idref="style1" index="-1">
+                        <number id="number3" expression="oat" property="present_value" editable="false" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="2" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="77" />
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table121r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="22" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text119" flow-entity-created="false" style-idref="style0" index="78">
+                           <variant xml:lang="en" length="2">&#176;C</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table121r1" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table121r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="24" height="20" editable="false" style-idref="style1" index="-1">
+                        <number id="number6" expression="oah" property="present_value" editable="false" maximum-right-digits="0" minimum-left-digits="1" expected-left-digits="3" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="79" />
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table121r1c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="22" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text121" flow-entity-created="false" style-idref="style0" index="80">
+                           <variant xml:lang="en" length="3">%rh</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="80" y-position="304" width="6" height="135" layout="reflow" z-position="53" id="region53">
+            <image width="6" height="135" is-locked="false" id="image123" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="82" />
+         </region>
+         <region x-position="-85" y-position="290" width="10" height="5" layout="reflow" z-position="54" id="region54">
+            <image width="10" height="5" is-locked="false" id="image126" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_arrow_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_arrow_r.gif" index="83" />
+         </region>
+         <region x-position="-90" y-position="440" width="10" height="5" layout="reflow" z-position="55" id="region55">
+            <image width="10" height="5" is-locked="false" id="image122" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/Pipe Bits/pipe_hw_arrow_l.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/Pipe%20Bits/pipe_hw_arrow_l.gif" index="84" />
+         </region>
+         <region x-position="138" y-position="285" width="16" height="5" layout="reflow" z-position="56" id="region56">
+            <image width="16" height="5" is-locked="false" id="image104" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Temp Wells/pipes_temp_up.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Temp%20Wells/pipes_temp_up.gif" index="85" />
+         </region>
+         <region x-position="166" y-position="287" width="15" height="15" layout="reflow" z-position="57" id="region57">
+            <image width="15" height="15" is-locked="false" id="image119" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_ul.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_ul.gif" index="86" />
+         </region>
+         <region x-position="238" y-position="431" width="15" height="16" layout="reflow" z-position="58" id="region58">
+            <image width="15" height="16" is-locked="false" id="image120" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_dl.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_dl.gif" index="87" />
+         </region>
+         <region x-position="305" y-position="292" width="27" height="20" layout="reflow" z-position="59" id="region59">
+            <inline-text is-locked="false" id="inline_text8" flow-entity-created="false" style-idref="style5" index="88">
+               <variant xml:lang="en" length="4">HX-1</variant>
+            </inline-text>
+         </region>
+         <region x-position="172" y-position="338" width="16" height="16" layout="reflow" z-position="60" id="region60">
+            <image width="16" height="16" is-locked="false" id="image127" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_dr.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_dr.gif" index="89" />
+         </region>
+         <region x-position="246" y-position="399" width="16" height="15" layout="reflow" z-position="61" id="region61">
+            <image width="16" height="15" is-locked="false" id="image132" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_corner_ur.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_corner_ur.gif" index="90" />
+         </region>
+         <region x-position="410" y-position="394" width="16" height="5" layout="reflow" z-position="62" id="region62">
+            <image width="16" height="5" is-locked="false" id="image377" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Temp Wells/pipes_temp_up.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Temp%20Wells/pipes_temp_up.gif" index="91" />
+         </region>
+         <region x-position="-342" y-position="42" width="171" height="20" layout="reflow" z-position="63" id="region63" layout-constraint="north-west">
+            <table style-idref="style1" id="table13" row-count="1" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="93">
+               <row id="table13r0" height="20">
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table13r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="171" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text117" flow-entity-created="false" style-idref="style10" index="92">
+                           <variant xml:lang="en" length="30">Outside Air / &#1053;&#1072;&#1088;&#1091;&#1078;&#1085;&#1099;&#1081; &#1074;&#1086;&#1079;&#1076;&#1091;&#1093; </variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="565" y-position="277" width="41" height="20" layout="reflow" z-position="64" id="region64">
+            <inline-text is-locked="false" id="inline_text218" flow-entity-created="false" style-idref="style10" index="94">
+               <variant xml:lang="en" length="5">%Open</variant>
+            </inline-text>
+         </region>
+         <region x-position="564" y-position="295" width="62" height="20" layout="reflow" z-position="65" id="region65">
+            <inline-text is-locked="false" id="inline_text219" flow-entity-created="false" style-idref="style10" index="95">
+               <variant xml:lang="en" length="9">%&#1054;&#1090;&#1082;&#1088;&#1099;&#1090;&#1086; </variant>
+            </inline-text>
+         </region>
+         <region x-position="57" y-position="224" width="41" height="20" layout="reflow" z-position="66" id="region66">
+            <inline-text is-locked="false" id="inline_text115" flow-entity-created="false" style-idref="style10" index="96">
+               <variant xml:lang="en" length="5">%Open</variant>
+            </inline-text>
+         </region>
+         <region x-position="56" y-position="242" width="62" height="20" layout="reflow" z-position="67" id="region67">
+            <inline-text is-locked="false" id="inline_text116" flow-entity-created="false" style-idref="style10" index="97">
+               <variant xml:lang="en" length="9">%&#1054;&#1090;&#1082;&#1088;&#1099;&#1090;&#1086; </variant>
+            </inline-text>
+         </region>
+         <region x-position="173" y-position="300" width="7" height="43" layout="reflow" z-position="68" id="region68">
+            <image width="7" height="43" is-locked="false" id="image115" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="98" />
+         </region>
+         <region x-position="246" y-position="412" width="7" height="26" layout="reflow" z-position="69" id="region69">
+            <image width="7" height="26" is-locked="false" id="image117" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_ud_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_ud_50.gif" index="99" />
+         </region>
+         <region x-position="903" y-position="273" width="65" height="20" layout="reflow" z-position="70" id="region70">
+            <inline-text is-locked="false" id="inline_text125" flow-entity-created="false" style-idref="style10" index="100">
+               <variant xml:lang="en" length="11">Flow Switch</variant>
+            </inline-text>
+         </region>
+         <region x-position="902" y-position="291" width="70" height="20" layout="reflow" z-position="71" id="region71">
+            <inline-text is-locked="false" id="inline_text126" flow-entity-created="false" style-idref="style10" index="101">
+               <variant xml:lang="en" length="11">&#1088;&#1077;&#1083;&#1077; &#1087;&#1086;&#1090;&#1086;&#1082;&#1072;</variant>
+            </inline-text>
+         </region>
+         <region x-position="702" y-position="285" width="43" height="20" layout="reflow" z-position="72" id="region72">
+            <inline-text is-locked="false" id="inline_text127" flow-entity-created="false" style-idref="style10" index="102">
+               <variant xml:lang="en" length="6">Pump 1</variant>
+            </inline-text>
+         </region>
+         <region x-position="702" y-position="303" width="43" height="20" layout="reflow" z-position="73" id="region73">
+            <inline-text is-locked="false" id="inline_text128" flow-entity-created="false" style-idref="style10" index="103">
+               <variant xml:lang="en" length="7">&#1085;&#1072;&#1089;&#1086;&#1089; 1</variant>
+            </inline-text>
+         </region>
+         <region x-position="702" y-position="371" width="43" height="20" layout="reflow" z-position="74" id="region74">
+            <inline-text is-locked="false" id="inline_text129" flow-entity-created="false" style-idref="style10" index="104">
+               <variant xml:lang="en" length="6">Pump 2</variant>
+            </inline-text>
+         </region>
+         <region x-position="702" y-position="389" width="43" height="20" layout="reflow" z-position="75" id="region75">
+            <inline-text is-locked="false" id="inline_text130" flow-entity-created="false" style-idref="style10" index="105">
+               <variant xml:lang="en" length="7">&#1085;&#1072;&#1089;&#1086;&#1089; 2</variant>
+            </inline-text>
+         </region>
+         <region x-position="-295" y-position="504" width="44" height="20" layout="reflow" z-position="76" id="region76">
+            <inline-text is-locked="false" id="inline_text131" flow-entity-created="false" style-idref="style10" index="106">
+               <variant xml:lang="en" length="6">BOILER</variant>
+            </inline-text>
+         </region>
+         <region x-position="-427" y-position="166" width="692" height="418" layout="reflow" z-position="77" id="region77">
+            <image width="692" height="418" is-locked="false" id="rectangle_drawing127" embedded-path="resources/rectangle_drawing127.png" bundled="true" path="resources/rectangle_drawing127.png" index="107">
+               <rectangle-drawing line-thickness="1" line-color="#ff9966" foreground-fill-color="#ffffff">
+                  <points>
+                     <point x="-427" y="166" />
+                     <point x="264" y="583" />
+                  </points>
+               </rectangle-drawing>
+            </image>
+         </region>
+         <region x-position="350" y-position="141" width="649" height="445" layout="reflow" z-position="78" id="region78">
+            <image width="649" height="445" is-locked="false" id="rectangle_drawing129" embedded-path="resources/rectangle_drawing129.png" bundled="true" path="resources/rectangle_drawing129.png" index="108">
+               <rectangle-drawing line-thickness="1" line-color="#ff9966" foreground-fill-color="#ffffff">
+                  <points>
+                     <point x="350" y="141" />
+                     <point x="998" y="585" />
+                  </points>
+               </rectangle-drawing>
+            </image>
+         </region>
+         <region x-position="905" y-position="836" width="15" height="16" layout="reflow" z-position="79" id="region79">
+            <image width="15" height="16" is-locked="false" id="image134" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/CW/pipe_cw_corner_dl.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/CW/pipe_cw_corner_dl.gif" index="109" />
+         </region>
+         <region x-position="-64" y-position="844" width="972" height="8" layout="reflow" z-position="80" id="region80">
+            <image width="972" height="8" is-locked="false" id="image135" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/CW/pipe_cw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/CW/pipe_cw_lr_50.gif" index="110" />
+         </region>
+         <region x-position="857" y-position="589" width="153" height="223" layout="reflow" z-position="81" id="region81">
+            <image width="153" height="223" is-locked="false" id="image70" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/01 Templates/Meter Pages/meter_water.jpg" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/01%20Templates/Meter%20Pages/meter_water.jpg" index="111" />
+         </region>
+         <region x-position="933" y-position="728" width="33" height="13" layout="reflow" z-position="82" id="region82">
+            <image width="33" height="13" is-locked="false" id="image8" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/02 Tables and Text/Lines/line_solid_h_10.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/02%20Tables%20and%20Text/Lines/line_solid_h_10.gif" index="112" />
+         </region>
+         <region x-position="123" y-position="236" width="133" height="42" layout="reflow" z-position="83" id="region83" layout-constraint="north">
+            <table style-idref="style1" id="table181" row-count="2" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="117">
+               <row id="table181r0" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table181r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="99" height="20" editable="false" style-idref="style1" index="-1">
+                        <droplist id="droplist177" expression="phws_temp" property="units" editable="false" attribute-name-key="key" attribute-name-display="name" is-locked="false" style-idref="style1" index="113">
+                           <preview-text>
+                              <variant xml:lang="en" length="2">&#176;C</variant>
+                           </preview-text>
+                        </droplist>
+                     </flow-layout>
+                  </cell>
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table181r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="28" height="20" editable="false" style-idref="style1" index="-1">
+                        <number id="number178" expression="phws_temp" property="present_value" editable="false" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="2" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="114" />
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table181r1" height="22">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table181r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="99" height="22" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text180" flow-entity-created="false" style-idref="style1" index="115">
+                           <variant xml:lang="en" length="18">Setpoint / &#1059;&#1089;&#1090;&#1072;&#1074;&#1082;&#1072;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table181r1c1">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="28" height="22" editable="false" style-idref="style1" index="-1">
+                        <number id="number180" expression="phws_stpt" property="present_value" editable="true" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="2" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="116" />
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="364" y-position="283" width="133" height="42" layout="reflow" z-position="84" id="region84" layout-constraint="north">
+            <table style-idref="style1" id="table137" row-count="2" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="122">
+               <row id="table137r0" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table137r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="99" height="20" editable="false" style-idref="style1" index="-1">
+                        <droplist id="droplist133" expression="hws_temp" property="units" editable="false" attribute-name-key="key" attribute-name-display="name" is-locked="false" style-idref="style1" index="118">
+                           <preview-text>
+                              <variant xml:lang="en" length="2">&#176;C</variant>
+                           </preview-text>
+                        </droplist>
+                     </flow-layout>
+                  </cell>
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table137r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="28" height="20" editable="false" style-idref="style1" index="-1">
+                        <number id="number134" expression="hws_temp" property="present_value" editable="false" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="2" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="119" />
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table137r1" height="22">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table137r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="99" height="22" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text135" flow-entity-created="false" style-idref="style1" index="120">
+                           <variant xml:lang="en" length="18">Setpoint / &#1059;&#1089;&#1090;&#1072;&#1074;&#1082;&#1072;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table137r1c1">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="28" height="22" editable="false" style-idref="style1" index="-1">
+                        <number id="number136" expression="hws_stpt" property="present_value" editable="true" maximum-right-digits="1" minimum-left-digits="1" expected-left-digits="2" scaling-factor="1.0" show-plus="false" is-locked="false" style-idref="style3" index="121" />
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="460" y-position="515" width="564" height="7" layout="reflow" z-position="85" id="region85">
+            <image width="564" height="7" is-locked="false" id="image139" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/HW/pipe_hw_lr_50.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/HW/pipe_hw_lr_50.gif" index="123" />
+         </region>
+         <region x-position="-375" y-position="255" width="243" height="238" layout="reflow" z-position="86" id="region86">
+            <image width="243" height="238" is-locked="false" id="image141" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Boilers and Heaters/boiler_gas_100_baseimage.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Boilers%20and%20Heaters/boiler_gas_100_baseimage.gif" index="124" />
+         </region>
+         <region x-position="468" y-position="353" width="62" height="20" layout="reflow" z-position="87" id="region87">
+            <inline-text is-locked="false" id="inline_text132" flow-entity-created="false" style-idref="style10" index="125">
+               <variant xml:lang="en" length="11">3-way valve</variant>
+            </inline-text>
+         </region>
+         <region x-position="467" y-position="371" width="116" height="20" layout="reflow" z-position="88" id="region88">
+            <inline-text is-locked="false" id="inline_text133" flow-entity-created="false" style-idref="style10" index="126">
+               <variant xml:lang="en" length="18">&#1058;&#1088;&#1077;&#1093;&#1093;&#1086;&#1076;&#1086;&#1074;&#1086;&#1081; &#1082;&#1083;&#1072;&#1087;&#1072;&#1085;</variant>
+            </inline-text>
+         </region>
+         <region x-position="594" y-position="358" width="39" height="20" layout="reflow" z-position="89" id="region89">
+            <inline-text is-locked="false" id="inline_text134" flow-entity-created="false" style-idref="style10" index="127">
+               <variant xml:lang="en" length="5">SKD60</variant>
+            </inline-text>
+         </region>
+         <region x-position="92" y-position="305" width="36" height="20" layout="reflow" z-position="90" id="region90">
+            <inline-text is-locked="false" id="inline_text136" flow-entity-created="false" style-idref="style10" index="128">
+               <variant xml:lang="en" length="5">SAX61</variant>
+            </inline-text>
+         </region>
+         <region x-position="-36" y-position="299" width="62" height="20" layout="reflow" z-position="91" id="region91">
+            <inline-text is-locked="false" id="inline_text137" flow-entity-created="false" style-idref="style10" index="129">
+               <variant xml:lang="en" length="11">3-way valve</variant>
+            </inline-text>
+         </region>
+         <region x-position="-37" y-position="317" width="116" height="20" layout="reflow" z-position="92" id="region92">
+            <inline-text is-locked="false" id="inline_text138" flow-entity-created="false" style-idref="style10" index="130">
+               <variant xml:lang="en" length="18">&#1058;&#1088;&#1077;&#1093;&#1093;&#1086;&#1076;&#1086;&#1074;&#1086;&#1081; &#1082;&#1083;&#1072;&#1087;&#1072;&#1085;</variant>
+            </inline-text>
+         </region>
+         <region x-position="-410" y-position="192" width="182" height="20" layout="reflow" z-position="93" id="region93">
+            <inline-text is-locked="false" id="inline_text139" flow-entity-created="false" style-idref="style13" index="131">
+               <variant xml:lang="en" length="22">&#1043;&#1086;&#1088;&#1103;&#1095;&#1077;&#1077; &#1074;&#1086;&#1076;&#1086;&#1089;&#1085;&#1072;&#1073;&#1078;&#1077;&#1085;&#1080;&#1077; </variant>
+            </inline-text>
+         </region>
+         <region x-position="-412" y-position="172" width="120" height="20" layout="reflow" z-position="94" id="region94">
+            <inline-text is-locked="false" id="inline_text140" flow-entity-created="false" style-idref="style13" index="132">
+               <variant xml:lang="en" length="16">Hot Water Supply</variant>
+            </inline-text>
+         </region>
+         <region x-position="363" y-position="175" width="258" height="20" layout="reflow" z-position="95" id="region95">
+            <inline-text is-locked="false" id="inline_text141" flow-entity-created="false" style-idref="style13" index="133">
+               <variant xml:lang="en" length="33">&#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1072; &#1086;&#1090;&#1086;&#1087;&#1083;&#1077;&#1085;&#1080;&#1103; &#1074; &#1074;&#1077;&#1085;&#1090;&#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1082;&#1080;</variant>
+            </inline-text>
+         </region>
+         <region x-position="361" y-position="155" width="182" height="20" layout="reflow" z-position="96" id="region96">
+            <inline-text is-locked="false" id="inline_text142" flow-entity-created="false" style-idref="style13" index="134">
+               <variant xml:lang="en" length="24">Hot Water System to AHUs</variant>
+            </inline-text>
+         </region>
+         <region x-position="683" y-position="60" width="227" height="20" layout="reflow" z-position="97" id="region97" layout-constraint="north-east">
+            <table style-idref="style1" id="table20" row-count="1" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="137">
+               <row id="table20r0" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table20r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="180" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text21" flow-entity-created="false" style-idref="style1" index="135">
+                           <variant xml:lang="en" length="31">Fire Status / &#1057;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1080;&#1077; &#1087;&#1086;&#1078;&#1072;&#1088;&#1072; </variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table20r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle24" expression="emerg_shutdown" property="present_value" editable="false" is-locked="false" variable-color-idref="variable-color0" style-idref="style3" index="136">
+                           <preview-text>
+                              <variant xml:lang="en" length="6">Normal</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="659" y-position="714" width="138" height="20" layout="reflow" z-position="98" id="region98">
+            <inline-text is-locked="false" id="inline_text202" flow-entity-created="false" style-idref="style10" index="138">
+               <variant xml:lang="en" length="22">&#1057;&#1095;&#1077;&#1090;&#1095;&#1080;&#1082; &#1093;&#1086;&#1083;&#1086;&#1076;&#1085;&#1086;&#1081; &#1074;&#1086;&#1076;&#1099; </variant>
+            </inline-text>
+         </region>
+         <region x-position="-263" y-position="835" width="128" height="20" layout="reflow" z-position="99" id="region99">
+            <inline-text is-locked="false" id="inline_text143" flow-entity-created="false" style-idref="style10" index="139">
+               <variant xml:lang="en" length="20">&#1051;&#1080;&#1085;&#1080;&#1103; &#1093;&#1086;&#1083;&#1086;&#1076;&#1085;&#1086;&#1081; &#1074;&#1086;&#1076;&#1099; </variant>
+            </inline-text>
+         </region>
+         <region x-position="-263" y-position="824" width="88" height="20" layout="reflow" z-position="100" id="region100">
+            <inline-text is-locked="false" id="inline_text144" flow-entity-created="false" style-idref="style10" index="140">
+               <variant xml:lang="en" length="15">Cold Water Line</variant>
+            </inline-text>
+         </region>
+         <region x-position="-83" y-position="844" width="20" height="8" layout="reflow" z-position="101" id="region101">
+            <image width="20" height="8" is-locked="false" id="image142" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipes/CW/pipe_cw_end_l.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipes/CW/pipe_cw_end_l.gif" index="141" />
+         </region>
+      </body>
+   </screen>
+</view>
+

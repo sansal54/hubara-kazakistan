@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee web-app_2_4.xsd"
+    version="2.4">
+
+  <servlet>
+    <servlet-name>webdav</servlet-name>
+    <servlet-class>org.apache.catalina.servlets.WebdavServlet</servlet-class>
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>0</param-value>
+    </init-param>
+    <init-param>
+      <param-name>listings</param-name>
+      <param-value>true</param-value>
+    </init-param>
+    <!-- Uncomment this to enable read and write access -->
+
+    <init-param>
+      <param-name>readonly</param-name>
+      <param-value>false</param-value>
+    </init-param>
+
+  <init-param>
+      <param-name>rootdir</param-name>
+      <param-value></param-value>
+    </init-param>
+
+
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+  <!-- The mapping for the webdav servlet -->
+  <servlet-mapping>
+    <servlet-name>webdav</servlet-name>
+    <url-pattern>/*</url-pattern>
+  </servlet-mapping>
+
+  <!-- Establish the default list of welcome files -->
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+  </welcome-file-list>
+  <!-- ================ Security Constraints for Testing =============== -->
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>WebDAV</web-resource-name>
+      <url-pattern>/</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>tomcat</role-name>
+    </auth-constraint>
+  </security-constraint>
+  
+  <security-role>
+    <description>
+      The role that is required to log in to the Manager Application
+    </description>
+    <role-name>tomcat</role-name>
+  </security-role>
+  <login-config>
+    <auth-method>BASIC</auth-method>
+    <realm-name>Remote File Management</realm-name>
+  </login-config>
+</web-app>

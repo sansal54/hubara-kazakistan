@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view xmlns="http://www.controlj.com/cjv2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.controlj.com/cjv2.0 cjv2.0.xsd" version="2.0" version-supporting-all-features="2.5.009" must-have-version="2.5.000">
+   <attachment-info>
+      <action type="graphics" />
+      <action-category type="default" />
+      <instance type="Default" />
+      <facet type="view" />
+      <ui-target type="lvl5" />
+      <target-resolution size="2" height="1080" width="1920" />
+      <supported-locale lang="en" />
+      <theme type="viewbuilder" />
+      <background-color value="#000000" />
+      <author></author>
+      <notes></notes>
+   </attachment-info>
+   <local-variables />
+   <layers>
+      <layer name="Layer 1" locked="false">
+         <control id="inline_text1" />
+      </layer>
+   </layers>
+   <revision-history>
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="3" hour="11" minute="36" second="53" version="6.5.003.20160413-73418 Final" />
+   </revision-history>
+   <group-list />
+   <static-traits>
+      <style font-family="Arial" font-size="14" bold="true" italic="true" color="#fff660" text-decoration="none" external="false" physical-font-size="17" id="style1" />
+   </static-traits>
+   <runtime-traits />
+   <screen id="main" allow-absolute-position="true">
+      <body>
+         <region x-position="1049" y-position="61" width="95" height="20" layout="reflow" z-position="0" id="region0">
+            <inline-text is-locked="false" id="inline_text1" flow-entity-created="false" style-idref="style1" index="0">
+               <variant xml:lang="en" length="11">HUBARA MAIN</variant>
+            </inline-text>
+         </region>
+      </body>
+   </screen>
+</view>
+

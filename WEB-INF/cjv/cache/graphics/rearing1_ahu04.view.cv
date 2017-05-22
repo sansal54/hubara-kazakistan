@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_51" class="java.beans.XMLDecoder">
+ <object class="com.controlj.green.core.pagebuilders.CachedViewWrapper">
+  <void property="info">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.controlj.green.core.pagebuilders.CjvActionInfo" id="CjvActionInfo0">
+      <void property="action">
+       <string>graphics</string>
+      </void>
+      <void property="actionCategory">
+       <string>default</string>
+      </void>
+      <void property="baseUrl">
+       <string>source.cjv</string>
+      </void>
+      <void property="defaultInstanceName">
+       <string>Default</string>
+      </void>
+      <void property="facet">
+       <string>view</string>
+      </void>
+      <void property="uiTypes">
+       <void index="0">
+        <string>lvl5</string>
+       </void>
+      </void>
+      <void property="valid">
+       <boolean>true</boolean>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="lastModified">
+   <long>1491891846721</long>
+  </void>
+  <void property="path">
+   <string>views\graphics\rearing1_ahu04.view</string>
+  </void>
+ </object>
+</java>

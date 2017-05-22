@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view xmlns="http://www.controlj.com/cjv2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.controlj.com/cjv2.0 cjv2.0.xsd" version="2.0" version-supporting-all-features="3.0.000" must-have-version="3.0.000">
+   <attachment-info>
+      <action type="graphics" />
+      <action-category type="default" />
+      <instance type="Default" />
+      <facet type="view" />
+      <ui-target type="lvl5" />
+      <target-resolution size="2" height="652" width="1520" />
+      <supported-locale lang="en" />
+      <theme type="viewbuilder" />
+      <background-color value="#000000" />
+      <author></author>
+      <notes></notes>
+   </attachment-info>
+   <local-variables />
+   <layers>
+      <layer name="Layer 1" locked="false">
+         <control id="character_string45" />
+         <control id="table30" />
+         <control id="inline_text217" />
+         <control id="inline_text225" />
+         <control id="inline_text278" />
+         <control id="text_toggle279" />
+         <control id="table280" />
+         <control id="inline_text5" />
+         <control id="text_toggle6" />
+         <control id="inline_text182" />
+         <control id="text_toggle183" />
+         <control id="table14" />
+         <control id="droplist184" />
+         <control id="inline_text206" />
+         <control id="checkbox_button130" />
+         <control id="image34" />
+      </layer>
+   </layers>
+   <revision-history>
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="14" minute="42" second="47" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="14" minute="9" second="48" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="14" minute="7" second="39" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="14" minute="6" second="52" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="50" second="40" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="50" second="26" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="49" second="30" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="11" hour="13" minute="48" second="42" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="18" minute="34" second="54" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="18" minute="33" second="42" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="18" minute="31" second="55" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="18" minute="15" second="3" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="18" minute="14" second="51" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="10" hour="18" minute="14" second="8" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="46" second="50" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="41" second="21" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="41" second="7" version="6.5.003.20160413-73418 Final" />
+      <entry name="DESKTOP-MF3G9E3" year="2017" month="3" date="9" hour="19" minute="40" second="26" version="6.5.003.20160413-73418 Final" />
+   </revision-history>
+   <group-list />
+   <static-traits>
+      <style font-family="Sans Serif" font-size="12" bold="false" italic="false" color="#929292" text-decoration="none" external="false" physical-font-size="16" id="style1" />
+      <style font-family="Sans Serif" font-size="12" bold="true" italic="false" color="#929292" text-decoration="none" external="false" physical-font-size="16" id="style3" />
+      <style font-family="Sans Serif" font-size="12" bold="false" italic="false" color="#fff660" text-decoration="none" external="false" physical-font-size="16" id="style2" />
+      <style font-family="Arial" font-size="12" bold="false" italic="false" color="#ffffff" text-decoration="none" external="false" physical-font-size="15" id="style10" />
+      <style font-family="Arial" font-size="12" bold="false" italic="false" color="#fff660" text-decoration="none" external="false" physical-font-size="15" id="style6" />
+      <style font-family="Arial" font-size="12" bold="false" italic="false" color="#f79292" text-decoration="none" external="false" physical-font-size="15" id="style9" />
+   </static-traits>
+   <runtime-traits>
+      <variable-color expression="$hvfd_flt/present_value$ == true ? '#FF0000' : '#FFF660'" id="variable-color4" />
+   </runtime-traits>
+   <screen id="main" allow-absolute-position="true">
+      <body>
+         <region x-position="646" y-position="4" width="229" height="20" layout="reflow" z-position="0" id="region0" layout-constraint="north">
+            <table style-idref="style1" id="table30" row-count="1" column-count="1" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="1">
+               <row id="table30r0" height="20">
+                  <cell align="center" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table30r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="center" vertical-alignment="bottom" text-wrap="no_wrap" width="229" height="20" editable="false" style-idref="style1" index="-1">
+                        <character-string id="character_string45" property=".display-name" editable="false" is-locked="false" style-idref="style3" index="0">
+                           <preview-text>
+                              <variant xml:lang="en" length="33">XXXXXXXXX - Node Name - XXXXXXXXX</variant>
+                           </preview-text>
+                        </character-string>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="713" y-position="374" width="126" height="40" layout="reflow" z-position="1" id="region1" layout-constraint="north">
+            <table style-idref="style1" id="table14" row-count="2" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="6">
+               <row id="table14r0" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table14r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="79" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text5" flow-entity-created="false" style-idref="style1" index="2">
+                           <variant xml:lang="en" length="15">Status / &#1089;&#1090;&#1072;&#1090;&#1091;&#1089;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table14r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle6" expression="ef01_status" property="present_value" editable="false" is-locked="false" style-idref="style2" index="3">
+                           <preview-text>
+                              <variant xml:lang="en" length="3">Off</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+               <row id="table14r1" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table14r1c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="79" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text182" flow-entity-created="false" style-idref="style1" index="4">
+                           <variant xml:lang="en" length="15">Fault / &#1090;&#1088;&#1077;&#1074;&#1086;&#1075;&#1072;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table14r1c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="41" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle183" expression="ef01_fault" property="present_value" editable="false" is-locked="false" variable-color-idref="variable-color4" style-idref="style2" index="5">
+                           <preview-text>
+                              <variant xml:lang="en" length="6">Normal</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="17" y-position="817" width="385" height="20" layout="reflow" z-position="2" id="region2">
+            <inline-text is-locked="false" id="inline_text217" flow-entity-created="false" style-idref="style10" index="7">
+               <variant xml:lang="en" length="73">In order to edit values, one must hold 'CTRL' key and click on the value!</variant>
+            </inline-text>
+         </region>
+         <region x-position="17" y-position="833" width="523" height="20" layout="reflow" z-position="3" id="region3">
+            <inline-text is-locked="false" id="inline_text225" flow-entity-created="false" style-idref="style10" index="8">
+               <variant xml:lang="en" length="83">&#1063;&#1090;&#1086;&#1073;&#1099; &#1088;&#1077;&#1076;&#1072;&#1082;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100; &#1079;&#1085;&#1072;&#1095;&#1077;&#1085;&#1080;&#1103;, &#1085;&#1091;&#1078;&#1085;&#1086; &#1091;&#1076;&#1077;&#1088;&#1078;&#1080;&#1074;&#1072;&#1090;&#1100; &#1082;&#1083;&#1072;&#1074;&#1080;&#1096;&#1091; &#171;CTRL&#187; &#1080; &#1085;&#1072;&#1078;&#1072;&#1090;&#1100; &#1085;&#1072; &#1079;&#1085;&#1072;&#1095;&#1077;&#1085;&#1080;&#1077;!</variant>
+            </inline-text>
+         </region>
+         <region x-position="697" y-position="340" width="159" height="20" layout="reflow" z-position="4" id="region4" layout-constraint="north">
+            <table style-idref="style1" id="table280" row-count="1" column-count="2" border-color="#000000" border-width="0" use-border="true" use-column-spacers="true" border-style="SQUARED" use-table-background="false" is-locked="false" index="11">
+               <row id="table280r0" height="20">
+                  <cell align="right" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table280r0c0">
+                     <flow-layout is-locked="false" horizontal-alignment="right" vertical-alignment="bottom" text-wrap="no_wrap" width="138" height="20" editable="false" style-idref="style1" index="-1">
+                        <inline-text is-locked="false" id="inline_text278" flow-entity-created="false" style-idref="style1" index="9">
+                           <variant xml:lang="en" length="20">Command / &#1059;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;</variant>
+                        </inline-text>
+                     </flow-layout>
+                  </cell>
+                  <cell align="left" valign="bottom" wrapping="no_wrap" column-span="1" use-border="false" border-width="0" use-cell-background="false" id="table280r0c1">
+                     <flow-layout is-locked="false" horizontal-alignment="left" vertical-alignment="bottom" text-wrap="no_wrap" width="15" height="20" editable="false" style-idref="style1" index="-1">
+                        <text-toggle id="text_toggle279" expression="ef01fan" property="present_value" editable="false" is-locked="false" style-idref="style2" index="10">
+                           <preview-text>
+                              <variant xml:lang="en" length="3">Off</variant>
+                           </preview-text>
+                        </text-toggle>
+                     </flow-layout>
+                  </cell>
+               </row>
+            </table>
+         </region>
+         <region x-position="781" y-position="154" width="62" height="20" layout="reflow" z-position="5" id="region5">
+            <droplist id="droplist184" expression="ef01_run" property="present_value" editable="false" attribute-name-key="key" attribute-name-display="name" is-locked="false" style-idref="style6" index="12">
+               <preview-text>
+                  <variant xml:lang="en" length="10">point name</variant>
+               </preview-text>
+            </droplist>
+         </region>
+         <region x-position="738" y-position="136" width="104" height="20" layout="reflow" z-position="6" id="region6">
+            <inline-text is-locked="false" id="inline_text206" flow-entity-created="false" style-idref="style9" index="13">
+               <variant xml:lang="en" length="18">Operation / &#1056;&#1072;&#1073;&#1086;&#1090;&#1072;</variant>
+            </inline-text>
+         </region>
+         <region x-position="730" y-position="239" width="90" height="68" layout="reflow" z-position="7" id="region7">
+            <checkbox-button id="checkbox_button130" expression="ef01_status" property="present_value" editable="false" width="90" height="68" is-locked="false" index="14">
+               <up-image embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/04 Air Systems/Fans/Axial/fan_axial_r_off.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/04%20Air%20Systems/Fans/Axial/fan_axial_r_off.gif" width="90" height="68" />
+               <down-image embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/04 Air Systems/Fans/Axial/fan_axial_r_on.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/04%20Air%20Systems/Fans/Axial/fan_axial_r_on.gif" width="90" height="68" />
+            </checkbox-button>
+         </region>
+         <region x-position="765" y-position="223" width="20" height="5" layout="reflow" z-position="8" id="region8">
+            <image width="20" height="5" is-locked="false" id="image34" embedded-path="resources/_common/lvl5/graphics/image-library/standard/v4/05 Water Systems/Pipe Equipment/Pumps/pump_arrow_r.gif" bundled="false" path="../_common/lvl5/graphics/image-library/standard/v4/05%20Water%20Systems/Pipe%20Equipment/Pumps/pump_arrow_r.gif" index="15" />
+         </region>
+      </body>
+   </screen>
+</view>
+
